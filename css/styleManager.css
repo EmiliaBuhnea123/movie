@@ -1,0 +1,33 @@
+#delogareManager a {
+    text-decoration: none; 
+    font-size: larger;
+    color: black;
+}
+
+table {
+    border-collapse: collapse;
+    width: 80%;
+    margin: 20px auto;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+#actions{
+   position: absolute;
+   top: 520px;
+   left: 100px;
+}
+
+.filmeBD{
+    position:absolute;
+    top:500px;
+    left: 650px
+   }
